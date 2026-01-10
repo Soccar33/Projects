@@ -59,7 +59,7 @@ section {
   font-size: 17px;
   text-align: center;
   border-radius: 20px;
-margin: 110px;
+margin: 120px;
 }
 
 .two {
@@ -69,6 +69,22 @@ margin: 110px;
     text-align: center;
 
 }
+
+.three {
+     border-style:double;
+  border: solid 3px;
+  border-color: black;
+  border-radius: 10px;
+  color: white;
+  font-family: Arial;
+  padding: 4px;
+  background-color: #2b8f1c;
+  font-size: 17px;
+  text-align: center;
+  border-radius: 20px;
+margin: 50px;
+}
+
 
 h1 {
     color: black;
