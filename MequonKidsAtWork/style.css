@@ -85,6 +85,20 @@ margin: 120px;
 margin: 50px;
 }
 
+.four {
+ border-style:double;
+  border: solid 3px;
+  border-color: black;
+  border-radius: 10px;
+  color: black;
+  font-family: Arial;
+  padding: 4px;
+  background-color: white;
+  font-size: 17px;
+  text-align: center;
+  border-radius: 20px;
+margin: 50px;
+}
 
 h1 {
     color: black;
