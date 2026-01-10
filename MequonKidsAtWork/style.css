@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #356;
+    margin: 0;
+    padding:0;
+    background-image: url('images/pxfuel.jpg');
+    background-size: cover;
+}
+
+header, footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 170px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.one {
+   border-style:double;
+  border: solid 3px;
+  border-color: white;
+  border-radius: 10px;
+  color: white;
+  font-family: Arial;
+  padding: 4px;
+  background-color: #2b8f1c;
+
+}
+
+.two {
+   
+   color: white;
+    font: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font: Arial;
+    text-align: center;
+}
