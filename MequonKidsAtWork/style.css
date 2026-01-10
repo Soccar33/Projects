@@ -4,7 +4,7 @@ body {
     color: #356;
     margin: 0;
     padding:0;
-    background-image: url('images/pxfuel.jpg');
+    background-image: url('images/shoveling.jpeg');
     background-size: cover;
 }
 
@@ -50,24 +50,29 @@ section {
 .one {
    border-style:double;
   border: solid 3px;
-  border-color: white;
+  border-color: black;
   border-radius: 10px;
   color: white;
   font-family: Arial;
   padding: 4px;
   background-color: #2b8f1c;
-
+  font-size: 17px;
+  text-align: center;
+  border-radius: 20px;
+margin: 110px;
 }
 
 .two {
    
-   color: white;
+   color: black;
     font: Arial;
     text-align: center;
+
 }
 
 h1 {
-    color: white;
+    color: black;
     font: Arial;
     text-align: center;
+    font-size: 45px;
 }
