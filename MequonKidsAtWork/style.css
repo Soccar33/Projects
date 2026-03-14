@@ -4,101 +4,67 @@ body {
     color: #356;
     margin: 0;
     padding:0;
-    background-image: url('images/shoveling.jpeg');
+    background-color: rgb(243,243,243) ;
     background-size: cover;
-}
 
-header, footer {
-    background-color: #f4f4f4;
-    padding: 20px;
-    text-align: center;
-}
-
-img {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 230px;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav ul li {
-    margin: 0 10px;
-}
-
-nav a {
-    text-decoration: none;
-    color: #333;
-}
-
-main {
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-section {
-    margin-bottom: 20px;
+   
 }
 
 .one {
    border-style:double;
   border: solid 3px;
-  border-color: black;
+  border-color: rgb(54,54,54);
   border-radius: 10px;
-  color: white;
+  color: rgb(54,54,54);
   font-family: Arial;
   padding: 4px;
-  background-color: #2b8f1c;
+  background-color:rgb(165,165,165);
   font-size: 17px;
   text-align: center;
   border-radius: 20px;
-margin: 120px;
+margin: 20px;
+font-weight: bolder;
 }
+
+
+
 
 .two {
    
    color: black;
     font: Arial;
     text-align: center;
+    align-items: center;
 
 }
 
 .three {
-     border-style:double;
-  border: solid 3px;
-  border-color: black;
   border-radius: 10px;
-  color: white;
+  color: rgb(165,165,165);
   font-family: Arial;
-  padding: 4px;
-  background-color: #2b8f1c;
+  padding: 10px;
+  background-color:rgb(54,54,54);
   font-size: 17px;
   text-align: center;
   border-radius: 20px;
 margin: 50px;
+font-weight: bolder;
 }
 
-.four {
- border-style:double;
+
+four {
+    border-style:double;
   border: solid 3px;
-  border-color: black;
+  border-color: white;
   border-radius: 10px;
-  color: black;
-  font-family: Arial;
   padding: 4px;
   background-color: white;
-  font-size: 17px;
-  text-align: center;
-  border-radius: 20px;
-margin: 50px;
+
+  border-radius: 40px;
+margin: 20px;
+width: 500
 }
+
 
 h1 {
     color: black;
