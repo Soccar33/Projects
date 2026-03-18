@@ -62,9 +62,19 @@ four {
 
   border-radius: 40px;
 margin: 20px;
-width: 500
+width: 50%;
+align-items: center;
 }
 
+.five {
+  width: 25%;
+  height: 25%;
+  margin: 100px;border-style:double;
+  border: solid 8px;
+  border-color: rgb(54,54,54);
+  border-radius: 10px;
+
+}
 
 h1 {
     color: black;
